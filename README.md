@@ -204,24 +204,6 @@ However, the results represent **associations observed in historical data**, not
 
 ---
 
-# Project Structure
-
-hotel-booking-cancellation-analysis/
-│
-├── data/
-│   └── raw/
-│       └── hotel_bookings.csv
-│
-├── notebooks/
-│   └── hotel_booking_cancellation_analysis.ipynb
-│
-├── output/
-│   └── charts/
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-
 ## Author
 
 **Ahmed Baqa**
